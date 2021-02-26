@@ -1,6 +1,8 @@
 # Vuebeerexpress
 using Vue.js and express node.js this web application will get data from  API displays information about beers
 
+Vue (pronounced /vjuː/, like view) is a progressive framework for building user interfaces. Unlike other monolithic frameworks, Vue is designed from the ground up to be incrementally adoptable. The core library is focused on the view layer only, and is easy to pick up and integrate with other libraries or existing projects
+
 
 ## using Vue.js 
 it will be the first experence using this frammework, however with the knowledged of HTMl & CSS and Js
